@@ -67,3 +67,14 @@ It is recommended to put a hand on its back to keep it in position whilst you tu
 
 Press and hold the chest button for three seconds until pepper says `"GNUK GNUK"`.
 Pepper will then begin the shutdown sequence and will be fully turned off when all the LEDs have gone dark.
+
+## Emergency Stop
+
+As with all robotic systems, an emergency stop button is pivotal for the safety of the robot and its environment.
+Pepper is no different however turning off pepper using the emergency stop is not recommended in normal use.
+
+If pepper does need to be turned off in an emergency, then press the stop button through the soft cover at the base of the neck.
+
+When pepper is off, the chest button will not activate until the stop button has been unlocked.
+To unlock the stop button, lift the soft cover and then turn the stop button clockwise until it snaps back in the up position.
+Afterwards be sure to close the soft cover being careful not to press the stop button.
