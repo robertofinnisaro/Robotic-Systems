@@ -45,3 +45,17 @@ When the state changes from `on -> off`:
 - Stops all activities.
 - Moves into the resting posture.
 - Turns off the motor stiffness.
+
+## Sleep Mode
+
+Pepper does not always need to be active, but as the boot process can take longer it can sometimes be advisable to put pepper to sleep.
+To put pepper to sleep mode autonomous life must be active.
+
+Simply lay your hand on pepper head covering all three of the tactile sensors and the palm covering the top camera.
+Holding your hand there for three seconds puts pepper to sleep.
+Pepper will make sounds when holding your hand in this position of:
+"blop", "blop", "click".
+The eyes and status LEDs will then turn purple for a short moment signalling that pepper is now in sleep mode.
+
+To wake pepper up, simply touch the tactile sensor in pepper head.
+Pepper will then wake up and enter the standing pose. 
