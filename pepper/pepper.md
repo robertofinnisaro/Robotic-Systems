@@ -23,3 +23,25 @@ The LEDs on pepper will then begin to start blinking and fading which shows wher
 The boot process is completed when pepper says `"OGNAK GNOUK"`.
 
 Pepper is now booted and applications can be run either automatically or interactively now.
+
+## Autonomous Life
+
+One of the most important features of pepper is autonomous life. 
+These gives pepper the functionality of being alive and responsive. 
+
+In the boot sequence you will have seen pepper scan the surrounding area.
+After this pepper orientates their head towards a human ready to be interacted with.
+
+To toggle the state of autonomous life, simply press the chest button twice.
+
+When the state changes from `off -> on`:
+- Pepper makes a happy grunt.
+- Turns on the motor stiffness.
+- Move into a standing posture.
+- Resumes its life.
+
+When the state changes from `on -> off`:
+- Pepper sighs.
+- Stops all activities.
+- Moves into the resting posture.
+- Turns off the motor stiffness.
