@@ -86,4 +86,4 @@ If pepper does need to be turned off in an emergency, then press the stop button
 
 When pepper is off, the chest button will not activate until the stop button has been unlocked.
 To unlock the stop button, lift the soft cover and then turn the stop button clockwise until it snaps back in the up position.
-Afterwards be sure to close the soft cover being careful not to press the stop button.
+Afterward be sure to close the soft cover being careful not to press the stop button.
