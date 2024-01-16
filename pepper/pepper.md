@@ -59,3 +59,11 @@ The eyes and status LEDs will then turn purple for a short moment signalling tha
 
 To wake pepper up, simply touch the tactile sensor in pepper head.
 Pepper will then wake up and enter the standing pose. 
+
+## Powering off Pepper
+
+To turn off pepper it is the same process as turning on pepper.
+It is recommended to put a hand on its back to keep it in position whilst you turn pepper off.
+
+Press and hold the chest button for three seconds until pepper says `"GNUK GNUK"`.
+Pepper will then begin the shutdown sequence and will be fully turned off when all the LEDs have gone dark.
