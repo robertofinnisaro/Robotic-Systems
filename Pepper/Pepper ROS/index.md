@@ -49,4 +49,27 @@ source /opt/ros/$ROS_DISTRIB/setup.sh
 cd ~/catkin_ws && catkin_make
 ```
 
-If you followed the [ROS installation guide]()
+If you followed the [ROS installation guide](/ros-installation-guide.md) you should already have your catkin package sourced but double check by looking into the `~/.bashrc`:
+
+```bash
+cat ~/.bashrc | grep catkin
+```
+
+This line should be returned: 
+
+```bash
+source ~/catkin_ws/devel/setup.bash
+```
+
+If not then make sure that it is added to the `~/.bashrc`.
+
+```bash
+echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+```
+
+You can then connect to your robot by running:
+
+```bash
+roslaunch naoqi_driver naoqi_driver.launch nao_ip:=<yourRobotIP>  [network_interface:=<eth0|wlan0|vpn0>] [username:=<name>] [password:=<passwd>]
+```
