@@ -93,3 +93,21 @@ If you do not have `pepper_bringup` then this can be installed by running:
 ```bash
 sudo apt-get install ros-$ROS_DISTRIB-pepper-.*
 ```
+
+## Running RVIZ with Pepper
+
+When using ROS, one of the best tools at your disposal is RVIZ. 
+RVIZ is in installed with ROS and so to run RVIZ simply ensure that your `setup.bash` is sourced before running:
+
+```bash
+rosrun rviz rviz
+```
+
+This is the basic launch for RVIZ without any configuration file. 
+To get a custom configuration file loaded to work with Pepper, it can be found in the catkin workspace.
+The pre-defined RVIZ configuration shows the basic displays for Pepper such as the TF, RobotModel, Camera, LiDARs and Sonars. 
+You can load it through the tool bar at the location below:
+
+```bash
+~/catkin_ws/src/pepper_robot/pepper_description/config/pepper.rviz
+```
