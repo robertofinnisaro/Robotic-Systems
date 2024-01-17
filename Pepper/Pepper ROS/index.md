@@ -105,9 +105,11 @@ rosrun rviz rviz
 
 This is the basic launch for RVIZ without any configuration file. 
 To get a custom configuration file loaded to work with Pepper, it can be found in the catkin workspace.
-The pre-defined RVIZ configuration shows the basic displays for Pepper such as the TF, RobotModel, Camera, LiDARs and Sonars. 
+
+sThe pre-defined RVIZ configuration shows the basic displays for Pepper such as the TF, RobotModel, Camera, LiDARs and Sonars. 
 You can load it through the tool bar at the location below:
 
 ```bash
 ~/catkin_ws/src/pepper_robot/pepper_description/config/pepper.rviz
 ```
+
