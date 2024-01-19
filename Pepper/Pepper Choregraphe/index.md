@@ -50,6 +50,12 @@ One of the videos that can be used in this section is an OpenDay video from your
 
 This feature can be integrated with `Animated Say` to better entertain visitors.
 
+### Q&A Session
+
+Implementation of a `Dialog` box found in `Speech` > `Creation` > `Dialog`, this can be used to respond to some common questions that visitors may be asking. In a furture tutorial, we will look into integrating this with a database providing more detailed information about courses and the campus to visitors.
+
+With this implementeatinon, it is possible to use speech recognitgion to understand and answer visitor queries.
+
 ## Add Speech
 
 ## Add Gestures
