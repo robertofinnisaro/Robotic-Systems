@@ -23,6 +23,9 @@ Before getting started, there are some prerequisits that need to be completed. T
 3. A basic understanding on how Pepper operates and general knowledge on how to use Pepper safely.
 
 ## Open Choregraphe
+The first step is to open Choregraphe, for this find and locate the application and launch it.
+After the application has been opened, connect to your Pepper by entering the IP address.
+To find the IP address, press the chest button on Pepper once and it will annouce the IP address.
 
 ## Create a New Project
 
