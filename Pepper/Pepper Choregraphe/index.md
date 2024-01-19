@@ -63,11 +63,12 @@ Ensure that there are smooth transitions between different behaviours.
 ## Compile and Install
 To run the program on Pepper first the program needs to be compolied, for this hit the compile button in the tool bar to build your Choregraphe project.
 
-After the project has been complied, you can then install the compiled behaviour onto Pepper
+After the project has been complied, you can then install the compiled behaviour onto Pepper.
 
-## Connect Boxes
+## Test Program
+To test that the progrma works, first run the program on Pepper.
+Then ensure that you run through all of the interactions that you programmed to see what all of the behaviours do.
 
-## Set-up Interaction
+During this process, you can make adjustments as needed to enchance the user experiance with Pepper.
 
-## Complie and Test
-
+## Conclusion
