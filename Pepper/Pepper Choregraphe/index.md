@@ -72,3 +72,4 @@ Then ensure that you run through all of the interactions that you programmed to 
 During this process, you can make adjustments as needed to enchance the user experiance with Pepper.
 
 ## Conclusion
+After this tutorial, you should have successfully created an open day program for Pepper using Choregraphe. This is an ever evolving process that can be customised for events based on specific goasl and features that you wish to completed depending on the event.
