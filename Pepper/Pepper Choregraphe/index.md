@@ -33,7 +33,22 @@ For this, go to `File` > `New Project`.
 
 Name your project with a suitable name: i.e `OpenDay` and choose a suitable location for the project to be saved in.
 
-## Add a New Behaviour
+## Design the Open Day program
+### Welcome Interaction
+In the `Box Libraries` find the predefined `Animated Say` block located in `Speech` > `Creation` > `Animated Say`.
+
+Double click on the box to edit some of the functionality. It is recommended to turn the speech speed down to 90%. This is also where you can enter a freindly welcome message to greet the visitors. 
+
+You could implement a `Say` box here but `Animated Say` builds a more engaging welcome.
+
+### Entertainment
+Pepper has a built in tablet that can be used to for interaction. On of the interactions that can be used is displaying mp4 files. 
+
+To use the tablet, find the `Show Image` box located in `Multimedia` > `Tablet` > `Show Image`. 
+
+One of the videos that can be used in this section is an OpenDay video from your marketing team, download the video and place it in your project files and it will be able to be referenced through to the `Show Image` box. 
+
+This feature can be integrated with `Animated Say` to better entertain visitors.
 
 ## Add Speech
 
